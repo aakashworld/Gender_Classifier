@@ -1,4 +1,4 @@
-# gender classifier - https://github.com/Naresh1318/GenderClassifier/blob/master/Run_Code.py
+# gender classifier - code inspiration from Siraj Raval tutorial on Data Science - https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
 
 from sklearn import tree 
 from sklearn.svm import SVC
